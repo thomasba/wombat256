@@ -77,7 +77,7 @@ hi mailQuoted12 ctermfg=70	cterm=none guifg=#5faf00	gui=none
 
 " Indent Guides
 hi IndentGuidesOdd  guibg=#121212 ctermbg=233
-hi IndentGuidesEven guibg=#080808 ctermbg=232
+hi IndentGuidesEven guibg=#1c1c1c ctermbg=234
 
 
 " Links
